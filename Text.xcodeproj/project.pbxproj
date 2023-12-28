@@ -14,6 +14,7 @@
 		D4FC15872B3C337C00616353 /* TextTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FC15862B3C337C00616353 /* TextTests.swift */; };
 		D4FC15912B3C337C00616353 /* TextUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FC15902B3C337C00616353 /* TextUITests.swift */; };
 		D4FC15932B3C337C00616353 /* TextUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FC15922B3C337C00616353 /* TextUITestsLaunchTests.swift */; };
+		D4FC15A02B3C33E000616353 /* TextEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FC159F2B3C33E000616353 /* TextEffect.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		D4FC158C2B3C337C00616353 /* TextUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4FC15902B3C337C00616353 /* TextUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextUITests.swift; sourceTree = "<group>"; };
 		D4FC15922B3C337C00616353 /* TextUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D4FC159F2B3C33E000616353 /* TextEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEffect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				D4FC15752B3C337B00616353 /* TextApp.swift */,
 				D4FC15772B3C337B00616353 /* ContentView.swift */,
+				D4FC159F2B3C33E000616353 /* TextEffect.swift */,
 				D4FC15792B3C337C00616353 /* Assets.xcassets */,
 				D4FC157B2B3C337C00616353 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				D4FC15782B3C337B00616353 /* ContentView.swift in Sources */,
 				D4FC15762B3C337B00616353 /* TextApp.swift in Sources */,
+				D4FC15A02B3C33E000616353 /* TextEffect.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
